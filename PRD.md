@@ -1,4 +1,4 @@
-**本产品主要运用百度api中知识图谱模块的[汉语检索功能](http://ai.baidu.com/tech/cognitive/hanyu)来实现。**
+**本产品主要运用百度api中知识图谱模块的[汉语检索功能](http://ai.baidu.com/tech/cognitive/hanyu)来实现。此外，部分功能还接入了[语音识别](http://ai.baidu.com/tech/speech/asr)功能和[语音合成](http://ai.baidu.com/tech/speech/tts)功能。**
 
 
 ## 产品定位
