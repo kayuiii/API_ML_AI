@@ -51,3 +51,5 @@
 
 ## 产品架构
 
+![基础架构](https://bdn.135editor.com/files/users/126/1261920/201811/zbpLMUk4_cxhR.jpeg)
+
