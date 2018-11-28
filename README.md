@@ -1,4 +1,16 @@
-**本产品主要运用百度API中知识图谱模块的[汉语检索](http://ai.baidu.com/tech/cognitive/hanyu)功能来实现。此外，部分功能还接入了[语音识别](http://ai.baidu.com/tech/speech/asr)功能、[语音合成](http://ai.baidu.com/tech/speech/tts)功能和图像识别功能。**
+**项目名称：
+所有人：陈嘉睿**
+
+
+**本产品主要运用的AI功能如下**
+
+* [百度AI-知识图谱模块-汉语检索](http://ai.baidu.com/tech/cognitive/hanyu)（最主要）
+* [百度AI-语音技术-语音识别](http://ai.baidu.com/tech/speech/asr)
+* [百度AI-语音技术-语音合成](http://ai.baidu.com/tech/speech/tts)
+* [百度AI-图像识别-通用图像识别](http://ai.baidu.com/tech/imagerecognition/general)
+* [腾讯AI-语音识别-关键词检索](https://ai.qq.com/product/keywords.shtml)
+* [腾讯AI-基础文本分析-同义词](https://ai.qq.com/product/nlpbase.shtml#synonym)
+* [网易AI-智能语音-语音评测](http://openai.163.com/voice/yycp)
 
 
 ## 产品定位
