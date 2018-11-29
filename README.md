@@ -102,6 +102,10 @@
 
 ![古诗词](https://bdn.135editor.com/files/users/126/1261920/201811/MAvFrTcc_mtqS.jpg)
 
+* 图像识别API流程示意图
+
+![图像识别](https://bdn.135editor.com/files/users/126/1261920/201811/8z2H9gf6_jTr4.jpg)
+
 
 ## 界面
 
