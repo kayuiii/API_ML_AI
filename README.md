@@ -94,7 +94,7 @@
 
 ## 产品架构
 
-![基础架构](https://bdn.135editor.com/files/users/126/1261920/201811/tUcb23Ts_M7aR.jpeg)
+![基础架构](https://bdn.135editor.com/files/users/126/1261920/201811/xuKnaKcN_CzdS.jpeg)
 
 ## 界面
 
