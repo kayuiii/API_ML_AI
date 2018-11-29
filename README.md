@@ -95,6 +95,14 @@
 
 ![基础架构](https://bdn.135editor.com/files/users/126/1261920/201811/xuKnaKcN_CzdS.jpeg)
 
+
+## API调用展示
+
+* 语音合成功能流程图示意（以古诗词为例）
+
+![古诗词](https://bdn.135editor.com/files/users/126/1261920/201811/MAvFrTcc_mtqS.jpg)
+
+
 ## 界面
 
 * **首页**
