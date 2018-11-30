@@ -110,7 +110,7 @@
 
 * 关键词检索API流程示意图（以关键词造句为例）
 
-![关键词](https://bdn.135editor.com/files/users/126/1261920/201811/4OBFAtXt_ILrR.jpg)
+![关键词](https://bdn.135editor.com/files/users/126/1261920/201811/uFTrAjP4_wpus.jpg)
 
 
 ## 界面
