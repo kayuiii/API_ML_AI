@@ -2,15 +2,43 @@
 
 **所有人：陈嘉睿**
 
+**[点击此处查看完整产品原型](https://kayuiii.github.io/API_ML_AI/)**
+
 **本产品主要运用的AI功能如下**
 
-* [百度AI-语音技术-语音识别](http://ai.baidu.com/tech/speech/asr)
+* [百度AI-语音技术-语音识别](http://ai.baidu.com/tech/speech/asr)及 [腾讯AI-语音识别-关键词检索](https://ai.qq.com/product/keywords.shtml)
+  * [原型对应页面查看](https://kayuiii.github.io/API_ML_AI/#g=1&p=%E5%85%B3%E9%94%AE%E8%AF%8D%E9%80%A0%E5%8F%A5%EF%BC%88%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%ABapi%E5%92%8C%E5%85%B3%E9%94%AE%E8%AF%8D%E6%A3%80%E7%B4%A2api%EF%BC%89)
+  
 * [百度AI-语音技术-语音合成](http://ai.baidu.com/tech/speech/tts)
-* [百度AI-图像识别-通用图像识别](http://ai.baidu.com/tech/imagerecognition/general)
-* [腾讯AI-语音识别-关键词检索](https://ai.qq.com/product/keywords.shtml)
-* [网易AI-智能语音-语音评测](http://openai.163.com/voice/yycp)
+  * [原型对应页面查看](https://kayuiii.github.io/API_ML_AI/#g=1&p=%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%98%85%E8%AF%BB%EF%BC%88%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90api%EF%BC%89)
 
-**[点击此处查看产品原型](https://kayuiii.github.io/API_ML_AI/)**
+* [百度AI-图像识别-通用图像识别](http://ai.baidu.com/tech/imagerecognition/general)
+  * [原型对应页面查看](https://kayuiii.github.io/API_ML_AI/#g=1&p=%E8%AF%86%E5%9B%BE%E6%88%90%E5%8A%9F%E9%A1%B5%EF%BC%88%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%ABapi%EF%BC%89）
+  
+  
+## 产品架构
+
+![基础架构](https://bdn.135editor.com/files/users/126/1261920/201811/xuKnaKcN_CzdS.jpeg)
+
+
+## API调用展示
+
+* 语音识别API流程示意图
+
+![语音识别](https://bdn.135editor.com/files/users/126/1261920/201811/e3p3CDJL_KO4S.jpg)
+
+* 语音合成API流程示意图（以古诗词为例）
+
+![古诗词](https://bdn.135editor.com/files/users/126/1261920/201811/MAvFrTcc_mtqS.jpg)
+
+* 图像识别API流程示意图
+
+![图像识别](https://bdn.135editor.com/files/users/126/1261920/201811/8z2H9gf6_jTr4.jpg)
+
+* 关键词检索API流程示意图（以关键词造句为例）
+
+![关键词](https://bdn.135editor.com/files/users/126/1261920/201811/uFTrAjP4_wpus.jpg)
+
 
 ## 产品定位
 
@@ -38,17 +66,14 @@
 
 
 ## 目标用户
+
 * 2-12岁的有汉语学习需求的儿童
 * 相应年龄段儿童的父母
 * 移动设备使用者
 * 移动购物与支付用户
 
-## 市场
-
-* 目前市面上**针对幼年儿童**的汉语学习、教育类APP较少且不出众
-* 多数汉语教育依存于学校教学、线下补习班、PC端网课，而这些课程都要求幼年儿童在学习时拥有一定强度的注意力，不符合改年龄层的学习习惯
-
 ## 内容范围
+
 * **汉语学习**
 
 我们将为不同年龄层儿童提供相应的汉语学习，包括汉字字音、书写与阅读，基础词语和成语学习与应用。同时，我们将跳出传统汉语教学的枯燥框架，通过小游戏、图文想象等方式，寓教于乐地让小朋友们更好地学习汉语。
@@ -75,6 +100,12 @@
 通过接入百度API的图像识别功能，用户在使用照相机拍摄或者开启AR增强现实功能时，可以识别图像内容，进而联想到相应诗句、文言等。如：拍摄物品：琵琶-联想到文言《琵琶行》；拍摄景物：桃花-联想诗句“竹外桃花三两枝，春江水暖鸭先知”等。通过身边事物联想汉语、古诗文能更进一步加深用户对于相关内容的印象，达到更好的学习效果。
 
 ## 市场
+
+* 目前市面上**针对幼年儿童**的汉语学习、教育类APP较少且不出众
+* 多数汉语教育依存于学校教学、线下补习班、PC端网课，而这些课程都要求幼年儿童在学习时拥有一定强度的注意力，不符合改年龄层的学习习惯
+
+## 运营
+
 * **前期推广**
 
 前期推广部分，我们可以开展“汉字书写”、“汉语知识”等小游戏来让大家认识到汉字书写等重要性。2-12岁的受众父母正巧处于25-40岁的工薪阶层，日常使用汉字多为口头用语，提笔忘字、用词和文书格式不正确等现象时有发生，这类小活动容易引起共鸣。
@@ -86,39 +117,3 @@
 
 用户进入稳定期后，我们可以在趣味学习的基础上增添花样，例如：与幼儿喜爱的动画形象合作推出学习课程、推出定制的词语/成语包（参考百词斩的定制单词包）、字音教学语音包等付费项目，来进入盈利阶段。
 
-## 产品架构
-
-![基础架构](https://bdn.135editor.com/files/users/126/1261920/201811/xuKnaKcN_CzdS.jpeg)
-
-
-## API调用展示
-
-* 语音识别API流程示意图
-
-![语音识别](https://bdn.135editor.com/files/users/126/1261920/201811/e3p3CDJL_KO4S.jpg)
-
-* 语音合成API流程示意图（以古诗词为例）
-
-![古诗词](https://bdn.135editor.com/files/users/126/1261920/201811/MAvFrTcc_mtqS.jpg)
-
-* 图像识别API流程示意图
-
-![图像识别](https://bdn.135editor.com/files/users/126/1261920/201811/8z2H9gf6_jTr4.jpg)
-
-* 关键词检索API流程示意图（以关键词造句为例）
-
-![关键词](https://bdn.135editor.com/files/users/126/1261920/201811/uFTrAjP4_wpus.jpg)
-
-
-## 界面
-
-* **首页**
-
-
-![首页](https://bdn.135editor.com/files/users/126/1261920/201811/kgC5hdTB_fbUB.png)
-
-
-* **测试**
-
-
-![测试](https://bdn.135editor.com/files/users/126/1261920/201811/bhrkVxm9_9Xv8.png)
