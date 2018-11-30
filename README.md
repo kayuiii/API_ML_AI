@@ -13,7 +13,7 @@
   * [原型对应页面查看](https://kayuiii.github.io/API_ML_AI/#g=1&p=%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%98%85%E8%AF%BB%EF%BC%88%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90api%EF%BC%89)
 
 * [百度AI-图像识别-通用图像识别](http://ai.baidu.com/tech/imagerecognition/general)
-  * [原型对应页面查看](https://kayuiii.github.io/API_ML_AI/#g=1&p=%E8%AF%86%E5%9B%BE%E6%88%90%E5%8A%9F%E9%A1%B5%EF%BC%88%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%ABapi%EF%BC%89）
+  * [原型对应页面查看](https://kayuiii.github.io/API_ML_AI/#g=1&p=%E8%AF%86%E5%9B%BE%E6%88%90%E5%8A%9F%E9%A1%B5%EF%BC%88%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%ABapi%EF%BC%89)
   
   
 ## 产品架构
