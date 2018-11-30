@@ -4,7 +4,7 @@
 
 **本产品主要运用的AI功能如下**
 
-* [百度AI-知识图谱模块-汉语检索](http://ai.baidu.com/tech/cognitive/hanyu)（最主要）
+* [百度AI-知识图谱模块-汉语检索](http://ai.baidu.com/tech/cognitive/hanyu)
 * [百度AI-语音技术-语音识别](http://ai.baidu.com/tech/speech/asr)
 * [百度AI-语音技术-语音合成](http://ai.baidu.com/tech/speech/tts)
 * [百度AI-图像识别-通用图像识别](http://ai.baidu.com/tech/imagerecognition/general)
