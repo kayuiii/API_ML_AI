@@ -10,6 +10,7 @@
 * [腾讯AI-语音识别-关键词检索](https://ai.qq.com/product/keywords.shtml)
 * [网易AI-智能语音-语音评测](http://openai.163.com/voice/yycp)
 
+**[点击此处查看产品原型](https://kayuiii.github.io/API_ML_AI/)**
 
 ## 产品定位
 
