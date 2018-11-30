@@ -96,13 +96,21 @@
 
 ## API调用展示
 
-* 语音合成功能流程图示意（以古诗词为例）
+* 语音识别API流程示意图
+
+![语音识别](https://bdn.135editor.com/files/users/126/1261920/201811/e3p3CDJL_KO4S.jpg)
+
+* 语音合成API流程示意图（以古诗词为例）
 
 ![古诗词](https://bdn.135editor.com/files/users/126/1261920/201811/MAvFrTcc_mtqS.jpg)
 
 * 图像识别API流程示意图
 
 ![图像识别](https://bdn.135editor.com/files/users/126/1261920/201811/8z2H9gf6_jTr4.jpg)
+
+* 关键词检索API流程示意图（以关键词造句为例）
+
+![关键词](https://bdn.135editor.com/files/users/126/1261920/201811/4OBFAtXt_ILrR.jpg)
 
 
 ## 界面
