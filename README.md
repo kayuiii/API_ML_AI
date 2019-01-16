@@ -25,14 +25,14 @@
 
 当代人类从小就开始“一睁眼即是竞争”的生活，每天的大段时间都安排得妥妥当当，要在百忙中挤出时间让小朋友去上汉语补习班，一方面增加了小朋友的负担，另一方面也会导致小朋友在学习的过程中越发功利性，逐渐丧失对中国文化的兴趣。而汉语教育APP可以利用小朋友的碎片时间进行学习，在放松的同时，对汉语的了解增添几分，达到**寓教于乐**的效果。
 
-## 最小完成
+## 最小完成项
 
 * **图像识别**：完成图像识别功能以建立起生活学习与软件学习的联系。
 
 * **语音合成**：实现有声读物功能。
 
 
-## 本产品主要运用的AI功能如下
+## 本产品主要运用的AI功能及原型对应展示页面如下
 
 * [百度AI-语音技术-语音识别](http://ai.baidu.com/tech/speech/asr)  及   [腾讯AI-语音识别-关键词检索](https://ai.qq.com/product/keywords.shtml)
   * [原型对应页面查看](https://kayuiii.github.io/API_ML_AI/#g=1&p=%E5%85%B3%E9%94%AE%E8%AF%8D%E9%80%A0%E5%8F%A5%EF%BC%88%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%ABapi%E5%92%8C%E5%85%B3%E9%94%AE%E8%AF%8D%E6%A3%80%E7%B4%A2api%EF%BC%89)
@@ -42,6 +42,11 @@
 
 * [百度AI-图像识别-通用图像识别](http://ai.baidu.com/tech/imagerecognition/general)
   * [原型对应页面查看](https://kayuiii.github.io/API_ML_AI/#g=1&p=%E8%AF%86%E5%9B%BE%E6%88%90%E5%8A%9F%E9%A1%B5%EF%BC%88%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%ABapi%EF%BC%89)
+
+## 产品原型文档
+
+* [产品原型html页面](https://kayuiii.github.io/API_ML_AI/)
+* [产品原型rp文件下载](https://github.com/kayuiii/API_ML_AI/blob/master/API%E6%9C%9F%E6%9C%AB%E9%A1%B9%E7%9B%AE%E5%8E%9F%E5%9E%8B.rp)
 
 ## 人工智能概率性
 
