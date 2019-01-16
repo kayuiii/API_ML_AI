@@ -146,3 +146,18 @@
 * **后期盈利**
 
 用户进入稳定期后，我们可以在趣味学习的基础上增添花样，例如：与幼儿喜爱的动画形象合作推出学习课程、推出定制的词语/成语包（参考百词斩的定制单词包）、字音教学语音包等付费项目，来进入盈利阶段。
+
+
+## 清单
+
+### 产品Axure原型示意链接
+
+**[点击此处查看完整产品原型](https://kayuiii.github.io/API_ML_AI/)**
+
+
+### 所使用的AI功能链接
+
+* [百度AI-语音技术-语音识别](http://ai.baidu.com/tech/speech/asr) 
+* [腾讯AI-语音识别-关键词检索](https://ai.qq.com/product/keywords.shtml)
+* [百度AI-语音技术-语音合成](http://ai.baidu.com/tech/speech/tts)
+* [百度AI-图像识别-通用图像识别](http://ai.baidu.com/tech/imagerecognition/general)
