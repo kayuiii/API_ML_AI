@@ -85,6 +85,19 @@
 
 ![关键词](https://bdn.135editor.com/files/users/126/1261920/201811/uFTrAjP4_wpus.jpg)
 
+## API使用价格
+
+* 百度AI语音识别&语音合成
+
+![识别合成](https://bdn.135editor.com/files/users/126/1261920/201901/XWUPX2C3_4VVz.png)
+
+* 百度AI通用图像分析
+
+![图像](https://bdn.135editor.com/files/users/126/1261920/201901/jf44C77s_ksG3.png)
+
+* 腾讯AI-关键词检索
+
+![关键词](https://bdn.135editor.com/files/users/126/1261920/201901/p428ZcIM_4w42.png)
 
 ## 用户需求
 
